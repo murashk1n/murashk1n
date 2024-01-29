@@ -1,4 +1,3 @@
-### Hi there 👋
 
 🚀 Full Stack Developer | Aika Solutions Oy
 
