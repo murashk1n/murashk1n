@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**murashk1n/murashk1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🚀 Full Stack Developer | Aika Solutions Oy
 
 🌐 Languages & Frameworks: Python, Django, Java, Spring Framework (Boot, Hibernate, Security, REST), Vue.js
