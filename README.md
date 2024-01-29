@@ -1,7 +1,7 @@
 
 🚀 Full Stack Developer | Aika Solutions Oy
 
-🌐 Language Skills: Fluent in Russian, English, and Finnish
+🌐 Language Skills: Russian, English, and Finnish
 
 🛠️ Backend Tech: Python, Django, PostgreSQL, Java, Spring Framework, MySQL
 
