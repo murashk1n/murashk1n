@@ -7,7 +7,7 @@
 
 💻 Frontend Skills: Vue.js, Tailwind.css
 
-🤖 DevOps Tools: Git, Docker
+🤖 DevOps Tools: Git, Docker, AWS
 
 🏋️‍♂️ Hobbies: Powerlifting and Brazilian Jiu-Jitsu (BJJ)
 
