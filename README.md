@@ -1,5 +1,5 @@
 
-🚀 Full Stack Developer | Aika Solutions Oy
+🚀 Full Stack Developer 
 
 🌐 Language Skills: Russian, English, and Finnish
 
